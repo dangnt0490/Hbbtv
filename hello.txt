@@ -1,3 +1,7 @@
 1. Nguyenx trong dang
+<<<<<<< HEAD
 2. nguyen vu bao nam
 3. nguyen my linh
+=======
+2. nguyen vu bao nam
+>>>>>>> c4d84abe45612fb730d577cf56405a4188f09bec
